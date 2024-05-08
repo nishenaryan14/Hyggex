@@ -1,8 +1,28 @@
-# React + Vite
+## Setting Up the Project
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# Cloning the Repository
 
-Currently, two official plugins are available:
+git clone <https://github.com/nishenaryan14/Hyggex.git>
+cd <Hyggex>
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+# Installing Dependencies
+
+npm install
+
+# Development Mode
+
+npm run dev
+
+# Starts the development server.
+
+Open http://localhost:3000 to view it in the browser.
+
+## Additional Configuration
+
+# Tailwind CSS
+
+Tailwind CSS is already configured in the project. You can customize it further by editing the tailwind.config.js file.
+
+# PostCSS Configuration
+
+If you need to add additional PostCSS plugins or configuration, you can do so in the postcss.config.js file.
