@@ -1,0 +1,31 @@
+li {
+  list-style: none;
+}
+
+.btn {
+  background: linear-gradient(180deg, #06286e 0%, #164ec0 100%);
+}
+
+.innerBox {
+  background: linear-gradient(
+    222.94deg,
+    #051a91 -4.31%,
+    #061c93 14.41%,
+    #2284f1 81.88%,
+    #1f80eb 103.81%
+  );
+}
+
+.active {
+  font-weight: 500;
+  text-decoration: underline;
+}
+
+span {
+  color: #051a91;
+  font-weight: 500;
+}
+
+.heading {
+  color: linear-gradient(180deg, #06286e 0%, #164ec0 100%);
+}
